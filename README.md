@@ -13,3 +13,4 @@ Random folders? They're smartly moved into the Folders directory.
 This script is 🔥 perfect for instantly decluttering your workspace and keeping your Desktop looking sharp and professional.
 Simple to use, highly effective, and sparks instant productivity! 🚀✨
 It’s compatible with Windows, Mac, and Linux systems.
+![ChatGPT Image Apr 19, 2025, 11_40_31 AM](https://github.com/user-attachments/assets/c8994a3a-277a-4941-8960-bc7452c1ed16)
